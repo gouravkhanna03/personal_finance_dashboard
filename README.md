@@ -87,7 +87,7 @@ The report contains five pages with shared navigation, slicers, a refresh timest
 - Monthly Income vs Expense chart, with a slicer configured for that visual only.
 - Refresh date and time.
 
-![Page 2 Overview](report/dashbaord/personal_finance_page_2.png)
+<img src="report/dashbaord/personal_finance_page_2.png" width="750" alt="Page 2 - Overview">
 
 ### 💸 Page 3: Expense Analysis
 
@@ -108,7 +108,7 @@ The report contains five pages with shared navigation, slicers, a refresh timest
 - Category-by-month table.
 - Expense by Category stacked bar chart.
 
-![Page 3 Expense Analysis](report/dashbaord/personal_finance_page_3.png)
+<img src="report/dashbaord/personal_finance_page_3.png" width="750" alt="Page 3 Expense Analysis">
 
 ### 📈 Page 4: Income Analysis
 
@@ -128,7 +128,7 @@ The report contains five pages with shared navigation, slicers, a refresh timest
 - Income by Category bar chart.
 - Monthly Income vs the average income for the same month.
 
-![Page 4- Income Analysis](report/dashbaord/personal_finance_page_4.png)
+<img src="report/dashbaord/personal_finance_page_4.png" width="750" alt="Page 4- Income Analysis">
 
 ### 🧾 Page 5: Transaction & Audit Analysis
 
@@ -149,7 +149,7 @@ The report contains five pages with shared navigation, slicers, a refresh timest
 - Audit Activity by Action across year and month.
 - Dynamic message identifying the most frequent type of correction.
 
-![Page 5- Transaction and Audit Analysis](report/dashbaord/personal_finance_page_5.png)
+<img src="(report/dashbaord/personal_finance_page_5.png" width="750" alt="Page 5- Transaction and Audit Analysis">
 
 ## 🛠️ Personal Finance Management Application
 
