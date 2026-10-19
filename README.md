@@ -87,6 +87,8 @@ The report contains five pages with shared navigation, slicers, a refresh timest
 - Monthly Income vs Expense chart, with a slicer configured for that visual only.
 - Refresh date and time.
 
+![Page 2 Overview](report/dashbaord/personal_finance_page_2.png)
+
 ### 💸 Page 3: Expense Analysis
 
 **Purpose:** Investigate expense patterns and identify major spending categories.
@@ -106,6 +108,8 @@ The report contains five pages with shared navigation, slicers, a refresh timest
 - Category-by-month table.
 - Expense by Category stacked bar chart.
 
+![Page 3 Expense Analysis](personal_finance_page_3.png)
+
 ### 📈 Page 4: Income Analysis
 
 **Purpose:** Understand income sources and savings performance over time.
@@ -123,6 +127,8 @@ The report contains five pages with shared navigation, slicers, a refresh timest
 - Net Savings Over Time line chart.
 - Income by Category bar chart.
 - Monthly Income vs the average income for the same month.
+
+![Page 4- Income Analysis](personal_finance_page_4.png)
 
 ### 🧾 Page 5: Transaction & Audit Analysis
 
@@ -142,6 +148,8 @@ The report contains five pages with shared navigation, slicers, a refresh timest
 - Archived Transactions table.
 - Audit Activity by Action across year and month.
 - Dynamic message identifying the most frequent type of correction.
+
+![Page 5- Transaction and Audit Analysis](personal_finance_page_5.png)
 
 ## 🛠️ Personal Finance Management Application
 
