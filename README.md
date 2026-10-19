@@ -66,7 +66,7 @@ The report contains five pages with shared navigation, slicers, a refresh timest
 - Figma-designed home screen.
 - Custom navigation to the dashboard pages.
 
-![Page 1 - Home](report/dashbaord/personal_finance_page_1.png)
+<img src="report/dashbaord/personal_finance_page_1.png" width="750" alt="Page 1 - Home">
 
 ### 📊 Page 2: Overview
 
