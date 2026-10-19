@@ -149,7 +149,7 @@ The report contains five pages with shared navigation, slicers, a refresh timest
 - Audit Activity by Action across year and month.
 - Dynamic message identifying the most frequent type of correction.
 
-<img src="(report/dashbaord/personal_finance_page_5.png" width="750" alt="Page 5- Transaction and Audit Analysis">
+<img src="report/dashbaord/personal_finance_page_5.png" width="750" alt="Page 5- Transaction and Audit Analysis">
 
 ## 🛠️ Personal Finance Management Application
 
