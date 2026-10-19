@@ -141,14 +141,18 @@ The report contains five pages with shared navigation, slicers, a refresh timest
 - Audit Activity by Action across year and month.
 - Dynamic message identifying the most frequent type of correction.
 
-## 🛠️ Companion App
+## 🛠️ Personal Finance Management Application
 
-A companion app built with **Antigravity** supports day-to-day interaction with the dataset.
+A CRUD app built using **Google's Antigravity**,integrated with PostgreSQL as the primary database. The application provides a user-facing interface for managing financial transactions.
 
-- Check dataset statistics.
-- Add transaction records.
-- Update existing records.
-- Remove transaction records.
+**Key Features:**
+
+- Create: Add new income and expense transactions.
+- Read: View transaction records and inspect dataset statistics.
+- Update: Edit existing transaction details.
+- Delete: Remove transactions while supporting database-level archiving and audit logging.
+- Data Validation: Maintain transaction integrity through database constraints and validation rules.
+- PostgreSQL Integration: Store and manage financial records in the same database used by the Power BI dashboard.
 
 This complements the Power BI report: the app provides a way to manage and inspect the dataset, while Power BI focuses on financial trends and audit analysis. Database triggers and functions support the audit and archive workflows where applicable.
 
